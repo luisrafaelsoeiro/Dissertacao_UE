@@ -1,4 +1,7 @@
 **/EUPDCorp_agenda_fixed.csv
 EUPDCorp_agenda_fixed.csv
 
+**/speeches_processed.csv
+speeches_processed.csv
+
 .venv/
