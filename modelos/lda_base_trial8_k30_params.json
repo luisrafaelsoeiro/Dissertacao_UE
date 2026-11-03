@@ -1,0 +1,13 @@
+{
+  "variant": "base",
+  "trial": 8,
+  "n_components": 30,
+  "max_df": 0.7,
+  "doc_topic_prior": 0.7568292060167615,
+  "topic_word_prior": 0.2600831268726488,
+  "max_iter": 15,
+  "learning_method": "online",
+  "random_state": 42,
+  "cv_search": 0.5438186057036059,
+  "diversidade_search": 0.87
+}
